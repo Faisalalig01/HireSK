@@ -1,6 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Toaster } from 'react-hot-toast'
+import { SpeedInsights } from '@vercel/speed-insights/react'
 
 import Home from './Pages/Home'
 import About from './Pages/About'
@@ -48,6 +49,7 @@ const App = () => {
   return (
     <div className="dark:bg-black relative">
       <Toaster />
+      <SpeedInsights />
 
       <BrowserRouter>
         <Routes>

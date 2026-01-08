@@ -14,8 +14,6 @@ import marketing_icon from './marketing_icon.svg'
 import social_icon from './social_icon.svg'
 import menu_icon from './menu_icon.svg'
 import close_icon from './close_icon.svg'
-import work_mobile_app from './work_mobile_app.png'
-import work_fitness_app from './work_fitness_app.png'
 import SaaS_Sales_Pipeline_Generation from './SaaS_Sales_Pipeline_Generation.png'
 import business_consulting_lead from './business_consulting_lead.png'
 import it_services_lead from './it_services_lead.png'
@@ -74,12 +72,13 @@ const assets = {
 export default assets
 
 export const teamData = [
-  { name: 'Noman Zaheer', title: 'Founder', image: 'https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=200' },
-  { name: 'Jessi', title: 'Co-Founder', image: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=200' },
-  { name: 'Faisal', title: 'Marketing & Sales', image: 'https://randomuser.me/api/portraits/men/34.jpg' },
-  { name: 'Faisal Sadique', title: 'Software Development Engineer', image: 'https://randomuser.me/api/portraits/men/9.jpg' },
-  { name: 'Emily Parker', title: 'Content marketer', image: 'https://randomuser.me/api/portraits/women/11.jpg' },
-  { name: 'Fouz Rehman', title: 'Content writer', image: 'https://randomuser.me/api/portraits/men/22.jpg' },
-  { name: 'Salman Khan', title: 'Performance manager', image: 'https://randomuser.me/api/portraits/men/61.jpg' },
+  { name: 'Faisal Nasir', title: 'Founder', image: 'https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=200' },
+  { name: 'Bilal Khan', title: 'Co-Founder', image: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=200' },
+  { name: 'Noman Zaheer', title: 'CEO', image: 'https://randomuser.me/api/portraits/men/34.jpg' },
+  { name: 'Faisal Sadique', title: 'IT Head', image: 'https://randomuser.me/api/portraits/men/9.jpg' },
+  { name: 'Kathrine Masuli', title: 'Solution Architect', image: 'https://randomuser.me/api/portraits/women/11.jpg' },
+  { name: 'Fouz Rehman', title: 'Social Media Manager', image: 'https://randomuser.me/api/portraits/men/22.jpg' },
+  { name: 'Salman Khan', title: 'Marketing & Sales', image: 'https://randomuser.me/api/portraits/men/61.jpg' },
   { name: 'Ahfaz Thakur', title: 'QA Enigeer', image: 'https://randomuser.me/api/portraits/men/28.jpg' },
+  { name: 'Zain Marwan', title: 'Business Development Associate', image: 'https://randomuser.me/api/portraits/men/28.jpg' },
 ]

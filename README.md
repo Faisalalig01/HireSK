@@ -59,6 +59,14 @@ HireSK is ideal for:
 
 ---
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](./screenshots/Home_Page.png)
+### About Page
+![About Page](./screenshots/About_Page.png)
+
+
 ## ⚙️ Getting Started
 
 ### Prerequisites

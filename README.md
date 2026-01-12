@@ -1,12 +1,72 @@
-# React + Vite
+# HireSK
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**HireSK** is a sales and business growth platform built to help companies create predictable revenue pipelines, improve lead quality, and scale their sales operations with clarity and structure.
 
-Currently, two official plugins are available:
+It is designed for growing businesses that want measurable results—not guesswork.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 https://hire-sk.vercel.app/
+
+---
+
+## 🎯 Purpose
+
+HireSK helps companies move from inconsistent sales efforts to a structured, repeatable growth system by combining strategy, execution, and performance insights.
+
+---
+
+## 🧩 What HireSK Does
+
+- Builds structured sales pipelines for consistent growth  
+- Helps companies identify and qualify high-intent leads  
+- Optimizes outreach strategies to improve engagement  
+- Provides visibility into sales performance and outcomes  
+
+---
+
+## 👥 Who This Is For
+
+HireSK is ideal for:
+
+- B2B companies aiming to scale revenue  
+- Startups preparing for growth and market expansion  
+- Service-based businesses seeking qualified leads  
+- Sales teams looking for better process and control  
+
+---
+
+## ✨ Key Capabilities
+
+- **Sales Pipeline Frameworks** – Clear stages from prospect to close  
+- **Lead Qualification** – Focus on opportunities that matter  
+- **Outreach Optimization** – Better messaging and follow-ups  
+- **Performance Tracking** – Insights to guide decisions  
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React (Vite)
+- **Styling:** CSS / Tailwind
+- **Deployment:** Vercel
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js (v16 or higher)
+- npm
+
+### Installation
+
+```bash
+git clone https://github.com/Faisalalig01/HireSK.git
+cd HireSK
+npm install

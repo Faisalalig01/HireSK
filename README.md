@@ -1,4 +1,8 @@
-# HireSK
+![Live Demo](https://img.shields.io/badge/demo-live-blue)
+![License](https://img.shields.io/github/license/Faisalalig01/HireSK)
+![Last Commit](https://img.shields.io/github/last-commit/Faisalalig01/HireSK)
+
+# Hiresk
 
 **HireSK** is a sales and business growth platform built to help companies create predictable revenue pipelines, improve lead quality, and scale their sales operations with clarity and structure.
 

@@ -30,8 +30,6 @@ import menu_icon_dark from './menu_icon_dark.svg'
 import sun_icon from './sun_icon.svg'
 import moon_icon from './moon_icon.svg'
 
-
-
 export const company_logos = [
   microsoft_logo,
   zoom_logo,

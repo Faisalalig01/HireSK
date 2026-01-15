@@ -12,7 +12,7 @@ It is designed for growing businesses that want measurable results—not guesswo
 
 ## 🚀 Live Demo
 
-👉 https://hire-sk.vercel.app/
+👉 https://hiresk.com/
 
 ---
 

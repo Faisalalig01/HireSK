@@ -1,4 +1,3 @@
-import React from "react";
 import Title from "./Title";
 import InfoCard from "../Pages/InfoCard";
 import assets from "../assets/assets";
@@ -18,7 +17,7 @@ const AboutUs = () => {
       <img
         src={assets.bgImage1}
         alt=""
-        className="absolute -top-120 right-[-200px] -z-1 opacity-60 dark:hidden"
+        className="hidden lg:block absolute -top-120 -right-50 -z-1 opacity-60 dark:hidden"
       />
 
       <Title
